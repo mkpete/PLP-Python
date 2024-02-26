@@ -1,2 +1,2 @@
 # PLP-Python
-intro to Python
+Intro to Python
